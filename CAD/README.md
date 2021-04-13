@@ -4,9 +4,10 @@
 
 | File | Source |
 | ------ | ------ |
-| AgriFLY v56.f3z | [calpardo.com server](https://calpardo.com/docswithoutpwd/AgriFLY_v56.f3z) |
-| AgriFLY.step | [calpardo.com server](https://calpardo.com/docswithoutpwd/AgriFLY.step) |
-| AgriFLY.stp | [calpardo.com server](https://calpardo.com/docswithoutpwd/AgriFLY.stp) |
+| AgriFLY v56.f3z | [calpardo.com server](https://calpardo.com/docswithoutpwd/AgriFLY_v56.f3z.zip) |
+| AgriFLY.step | [calpardo.com server](https://calpardo.com/docswithoutpwd/AgriFLY.step.zip) |
+| AgriFLY.stp | [calpardo.com server](https://calpardo.com/docswithoutpwd/AgriFLY.stp.zip) |
+| AgriFLY.zip | [calpardo.com server](https://calpardo.com/docswithoutpwd/AgriFLY.zip) |
 
 ## Additional Sources
 
