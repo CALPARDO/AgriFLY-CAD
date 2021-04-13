@@ -10,18 +10,13 @@
 
 ![](https://raw.githubusercontent.com/CALPARDO/AgriFLY-CAD/main/Renders/20021-000-01_frame-assembly_2021-Apr-12_10-10-40PM-000_CustomizedView23594800524.png)
 
-- [AgriBots website](https://agribots.ga)
-- [CAD Files](https://a360.co/2MutwNb) (Autodesk online viewer)
-- [CAD Files]
-- [Animations](https://drive.google.com/drive/folders/1GFWpU1b_TlYTg6bplpgEoIbyGbc8YMv4?usp=sharing) (Google Drive)
-
 ## Sources
 
 | File | Source |
 | ------ | ------ |
-| CAD Files | [Autodesk Fusion](https://a360.co/2MutwNb) |
+| Online Viewer | [Autodesk Fusion](https://a360.co/2MutwNb) |
 | CAD Files | [Github]() |
 | Renders | [Google Drive]() |
 | Renders | [Github]() |
-| Medium | [plugins/medium/README.md]() |
-| Google Analytics | [plugins/googleanalytics/README.md]() |
+| Animations | [Google Drive](https://drive.google.com/drive/folders/1GFWpU1b_TlYTg6bplpgEoIbyGbc8YMv4?usp=sharing) |
+| AgriBots Website | [agribots.ga](https://agribots.ga) |
