@@ -3,7 +3,7 @@
 # Download
 | File | Source |
 | ------ | ------ |
-| AgriFLY v56.f3z | [calpardo.com server](https:/calpardo.com/docswithoutpwd/AgriFLY v56.f3z) |
+| AgriFLY v56.f3z | [calpardo.com server](https://calpardo.com/docswithoutpwd/AgriFLY v56.f3z) |
 | CAD Files | [Github](https://github.com/CALPARDO/AgriFLY-CAD/tree/main/CAD) |
 | Renders | [Google Drive](https://drive.google.com/drive/folders/1KJhkmetENYp_dH1lRn01Y4gz15PD6Z4s?usp=sharing) |
 | Renders | [Github](https://github.com/CALPARDO/AgriFLY-CAD/tree/main/Renders) |
