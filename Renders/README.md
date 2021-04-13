@@ -19,7 +19,7 @@
 
 | File | Source |
 | ------ | ------ |
-| CAD Files | [Autodesk Fusion][https://a360.co/2MutwNb] |
+| CAD Files | [Autodesk Fusion](https://a360.co/2MutwNb) |
 | GitHub | [plugins/github/README.md][PlGh] |
 | Google Drive | [plugins/googledrive/README.md][PlGd] |
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
